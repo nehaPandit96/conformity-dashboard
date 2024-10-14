@@ -55,11 +55,11 @@ For testing purposes, the following hardcoded users are available:
 
 1. User 1
 - Username: user1
-- Password: password123
+- Password: password1
 
 2. User 2
 - Username: user2
-- Password: password456
+- Password: password2
 
 Use these credentials to log in to the application.
 
