@@ -1,0 +1,6 @@
+# Ignore backend dependencies
+/backend/package-lock.json
+/backend/node_modules/
+
+
+.DS_store
